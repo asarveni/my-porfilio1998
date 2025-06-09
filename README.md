@@ -1,6 +1,7 @@
 # my-porfilio1998
 
 Welcome to my portfolio repository!  
+
 Here you can find my projects, skills, and contact information.
 
 About Me  
@@ -14,8 +15,10 @@ Projects
 Contact  
 Feel free to reach out to me:  
 Email: your.email@example.com  
-LinkedIn: linkedin.com/in/yourprofile  
+LinkedIn: linkedin.com/in/yourprofile
 
 ---
 
 Thank you for visiting my portfolio!
+
+
