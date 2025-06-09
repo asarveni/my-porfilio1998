@@ -14,8 +14,8 @@ Projects
 
 Contact  
 Feel free to reach out to me:  
-Email: your.email@example.com  
-LinkedIn: linkedin.com/in/yourprofile
+Email: alireza.sarveniazi@gmail.com  
+LinkedIn: linkedin.com/in/alireza-sarve-niazi-866a05256/
 
 ---
 
