@@ -1,4 +1,35 @@
 html
+<head>
+  <style>
+    .watermark {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(-30deg);
+      font-size: 48px;
+      color: rgba(255, 255, 255, 0.15);
+      pointer-events: none;
+      user-select: none;
+      z-index: 9999;
+      font-weight: bold;
+      font-family: Arial, sans-serif;
+    }
+
+    .copyright-notice {
+      text-align: center;
+      color: #555;
+      font-size: 14px;
+      margin-top: 20px;
+      font-family: Arial, sans-serif;
+      position: fixed;
+           bottom: 10px;
+      width: 100%;
+      background: rgba(255, 255, 255, 0.8);
+      padding: 5px 0;
+      z-index: 10000;
+    }
+  </style>
+</head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
