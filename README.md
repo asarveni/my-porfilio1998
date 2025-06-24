@@ -16,6 +16,12 @@ Contact
 Feel free to reach out to me:  
 Email: alireza.sarveniazi@gmail.com  
 LinkedIn: linkedin.com/in/alireza-sarve-niazi-866a05256/
+markdown
+Projects
+- Project 1: Description of your first project
+- Project 2: Description of your second project
+- [Hypergraph Spectral Analysis for Alzheimer’s](https://github.com/asarveni/Hypergraph-Spectral-analysis-for-Alzheimer)  
+  A project using spectral hypergraph methods for early detection of Alzheimer’s disease.
 
 ---
 
